@@ -1,0 +1,20 @@
+{
+  "id": "/fgm-koleksiyon/",
+  "name": "FGM Koleksiyon",
+  "short_name": "FGM Koleksiyon",
+  "description": "FGM Koleksiyon ürün kataloğu ve WhatsApp sipariş",
+  "lang": "tr",
+  "start_url": "/fgm-koleksiyon/",
+  "scope": "/fgm-koleksiyon/",
+  "display": "standalone",
+  "background_color": "#fffaf1",
+  "theme_color": "#f8efdf",
+  "icons": [
+    {
+      "src": "fgm-logo.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
