@@ -1,1 +1,1 @@
-{"name":"FGM Koleksiyon Yönetim","short_name":"FGM Yönetim","start_url":"/yonetim.html","scope":"/","display":"standalone","background_color":"#fff9f2","theme_color":"#b98312","icons":[{"src":"/yonetim-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name":"FGM Koleksiyon Yönetim","short_name":"FGM Yönetim","id":"/yonetim.html","start_url":"/yonetim.html","scope":"/","display":"standalone","background_color":"#fff8ee","theme_color":"#b98312","icons":[{"src":"/fgm-logo.jpg?v=2","sizes":"any","type":"image/jpeg","purpose":"any"}]}
