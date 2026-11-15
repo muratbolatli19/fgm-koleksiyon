@@ -5,3 +5,5 @@
 
 /* Fixed real hero artwork, independent of old cached hero markup */
 .hero-image{background-image:url('/hero-fgm-1.svg?v=13')!important;background-size:cover!important;background-position:center!important;filter:none!important}.hero-image>.gift,.hero-image>.lantern,.hero-image>.lavender{display:none!important}.hero-copy{z-index:2}.hero .gold{position:relative;z-index:4}
+
+/* FGM logo and refined boutique header */.logo{object-fit:contain;mix-blend-mode:multiply;filter:contrast(1.05)}header{background:linear-gradient(180deg,#fffaf3,#fff7ee)}@media(max-width:640px){header{height:95px}.logo{width:145px;height:145px;top:-3px}.header-right{gap:8px}}
