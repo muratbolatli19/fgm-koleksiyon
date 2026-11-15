@@ -4,4 +4,4 @@
 @media(max-width:650px){.gift{width:55%;height:47%}.gift-bow{font-size:65px;top:-45%}.gift span{width:53px;height:53px;font-size:17px}.gift span small{font-size:5px}.lantern{width:15%;border-width:4px}.lavender{font-size:20px}.hero-copy{padding-top:27px}}
 
 /* Fixed real hero artwork, independent of old cached hero markup */
-.hero-image{background-image:url('/hero-fgm.svg?v=11')!important;background-size:cover!important;background-position:center!important;filter:none!important}.hero-image>.gift,.hero-image>.lantern,.hero-image>.lavender{display:none!important}.hero-copy{z-index:2}.hero .gold{position:relative;z-index:4}
+.hero-image{background-image:url('/hero-fgm-1.svg?v=13')!important;background-size:cover!important;background-position:center!important;filter:none!important}.hero-image>.gift,.hero-image>.lantern,.hero-image>.lavender{display:none!important}.hero-copy{z-index:2}.hero .gold{position:relative;z-index:4}
